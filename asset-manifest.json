@@ -1,10 +1,20 @@
 {
-  "main.css": "static/css/main.d82106f2.css",
-  "main.css.map": "static/css/main.d82106f2.css.map",
-  "main.js": "static/js/main.3390ea66.js",
-  "main.js.map": "static/js/main.3390ea66.js.map",
-  "static/media/Loading-Dots.svg": "static/media/Loading-Dots.f232807e.svg",
-  "static/media/Spinner-1s-200px.svg": "static/media/Spinner-1s-200px.91a123b7.svg",
-  "static/media/basic_elaboration_cloud_refresh.svg": "static/media/basic_elaboration_cloud_refresh.57d9f885.svg",
-  "static/media/basic_gear.svg": "static/media/basic_gear.4b9eca9d.svg"
+  "files": {
+    "main.css": "/reddit_upvoted/static/css/main.86fe04aa.chunk.css",
+    "main.js": "/reddit_upvoted/static/js/main.302a26b1.chunk.js",
+    "runtime-main.js": "/reddit_upvoted/static/js/runtime-main.189c89cb.js",
+    "static/js/2.63ee9a4a.chunk.js": "/reddit_upvoted/static/js/2.63ee9a4a.chunk.js",
+    "index.html": "/reddit_upvoted/index.html",
+    "static/js/2.63ee9a4a.chunk.js.LICENSE.txt": "/reddit_upvoted/static/js/2.63ee9a4a.chunk.js.LICENSE.txt",
+    "static/media/Loading-Dots.3b281720.svg": "/reddit_upvoted/static/media/Loading-Dots.3b281720.svg",
+    "static/media/Spinner-1s-200px.1700b373.svg": "/reddit_upvoted/static/media/Spinner-1s-200px.1700b373.svg",
+    "static/media/basic_elaboration_cloud_refresh.895db699.svg": "/reddit_upvoted/static/media/basic_elaboration_cloud_refresh.895db699.svg",
+    "static/media/basic_gear.a5ee7191.svg": "/reddit_upvoted/static/media/basic_gear.a5ee7191.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.189c89cb.js",
+    "static/js/2.63ee9a4a.chunk.js",
+    "static/css/main.86fe04aa.chunk.css",
+    "static/js/main.302a26b1.chunk.js"
+  ]
 }
