@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/reddit_upvoted/static/css/main.86fe04aa.chunk.css",
-    "main.js": "/reddit_upvoted/static/js/main.302a26b1.chunk.js",
+    "main.js": "/reddit_upvoted/static/js/main.85f7d419.chunk.js",
     "runtime-main.js": "/reddit_upvoted/static/js/runtime-main.189c89cb.js",
     "static/js/2.63ee9a4a.chunk.js": "/reddit_upvoted/static/js/2.63ee9a4a.chunk.js",
     "index.html": "/reddit_upvoted/index.html",
+    "service-worker.js": "/reddit_upvoted/service-worker.js",
     "static/js/2.63ee9a4a.chunk.js.LICENSE.txt": "/reddit_upvoted/static/js/2.63ee9a4a.chunk.js.LICENSE.txt",
     "static/media/Loading-Dots.3b281720.svg": "/reddit_upvoted/static/media/Loading-Dots.3b281720.svg",
     "static/media/Spinner-1s-200px.1700b373.svg": "/reddit_upvoted/static/media/Spinner-1s-200px.1700b373.svg",
@@ -15,6 +16,6 @@
     "static/js/runtime-main.189c89cb.js",
     "static/js/2.63ee9a4a.chunk.js",
     "static/css/main.86fe04aa.chunk.css",
-    "static/js/main.302a26b1.chunk.js"
+    "static/js/main.85f7d419.chunk.js"
   ]
 }
